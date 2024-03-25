@@ -1,0 +1,4 @@
+Esta será la primera línea en nuestro fichero de texto.
+Este texto estará en la segunda línea del fichero.
+Este texto estará en la tercera línea del fichero.Esto seguirá en la tercera línea del fichero.
+Y este está en la cuarta.
