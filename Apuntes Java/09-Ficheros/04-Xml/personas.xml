@@ -1,0 +1,14 @@
+<personas>
+   <persona ciudad="Avila">
+      <nombre>Claudia</nombre>
+      <edad>21</edad>
+   </persona>
+   <persona ciudad="Oviedo">
+      <nombre>Jose</nombre>
+      <edad>35</edad>
+   </persona>
+   <persona ciudad="Jaen">
+      <nombre>Matilde</nombre>
+      <edad>64</edad>
+   </persona>
+</personas>
